@@ -1,0 +1,6 @@
+<html>
+	<body>
+		<applet code = "ThreadsInjava" width=500 height=700>
+		</applet>
+	</body>
+</html>
